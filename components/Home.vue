@@ -4,7 +4,7 @@
       <div class="pr-8">
         <div>
           <h2 class="text-2xl font-bold">
-            20 UNIQUE ALGORITHMS-GENERATED COLLECTIBLE NFTS
+            20 UNIQUE ALGORITHMS-GENERATED COLLECTIBLE NFTS ON NEO 3 BLOCKCHAIN
           </h2>
           <h4 class="text-xl font-medium">
             Collect your unique bitmap NFT

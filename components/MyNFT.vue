@@ -39,7 +39,7 @@
           </template>
           <template #img>
             <img
-              :src="ownedNFT.image"
+              :src="require(`/assets/nft/images/${ownedNFT.image}`)"
               alt=""
             >
           </template>

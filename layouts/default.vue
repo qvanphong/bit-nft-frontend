@@ -32,6 +32,11 @@ import ConnectWalletButton from "~/components/ConnectWalletButton.vue"
 
 export default {
   components: { ConnectWalletButton },
+  head () {
+    return {
+      title: "BIT NFT"
+    }
+  },
   computed: {
     notification () {
       return this.$store.state.neoline.notification
@@ -49,9 +54,6 @@ export default {
         })
       }
     }
-  },
-  methods: {
-
   }
 }
 </script>
