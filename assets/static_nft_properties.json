@@ -1,0 +1,8 @@
+{
+	"nfts": [
+		{
+			"image": "@/assets/nft/images/1.png",
+			"data": "@/assets/nft/data/1.json"
+		}
+	]
+}
